@@ -1,0 +1,5 @@
+controller:make
+c:\xampp\htdocs\ProjectName>php artisan controller:make XYZController
+
+create laravel require version
+path..>composer create-project laravel/laravel your-project-name 4.2.*
